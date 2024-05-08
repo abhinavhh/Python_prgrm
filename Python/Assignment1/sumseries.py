@@ -10,3 +10,8 @@ for i in range(1,n+1):
     sum+=1/i
 print(sum)
 print()
+
+Output : 
+
+    Enter the no  of terms : 6
+    2.4499999999999997
