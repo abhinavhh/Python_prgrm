@@ -16,3 +16,10 @@ if rows>0 and rows<=26:
             print(char,end=" ")
             start+=1
         print()#next row
+
+Output : 
+    Enter the no of rows (greater than 0 && Less than 27): 4
+        A 
+       A B 
+      A B C 
+     A B C D 
