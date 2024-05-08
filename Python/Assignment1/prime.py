@@ -16,3 +16,7 @@ for i in range(1, count+1):
         print(i, end=" ")
 
 print()
+
+Output : 
+    Reading the count, n : 7
+    2 3 5 7 
