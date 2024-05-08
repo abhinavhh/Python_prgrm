@@ -20,3 +20,9 @@ print("npr = ",npr)
 print("ncr = ",ncr)
 
 print()
+
+Output : 
+    Enter the value for n : 5
+    Enter the value for r : 2
+    npr =  20.0
+    ncr =  10.0
