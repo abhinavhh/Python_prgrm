@@ -12,3 +12,11 @@ distance=math.sqrt((x2-x1)**2+(y2-y1)**2)
 print("Distance is : ",distance)
 
 print()
+
+Output: 
+
+  Enter value of x1: 3
+  Enter value of x2: 2
+  Enter value of y1: 2
+  Enter value of y2: 4
+  Distance is :  2.23606797749979
