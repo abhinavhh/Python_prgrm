@@ -21,3 +21,11 @@ else:
     print("Solution is : ",solution1)
 
 print()
+
+Output : 
+    ------ax**2+bx+c=0-------
+    enter value for a : 2
+    enter value for b : 4
+    enter value for c : 6
+    Solution is :  (-1-1.4142135623730951j)
+    Solution is :  (-1+1.4142135623730951j)
