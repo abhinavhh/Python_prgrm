@@ -9,3 +9,8 @@ while y!=0:
     y-=1
 print(result)
 print()
+
+Output : 
+    Enter the base : 2
+    Enter the exponent: 3
+    8
