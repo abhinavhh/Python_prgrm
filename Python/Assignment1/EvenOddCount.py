@@ -11,3 +11,11 @@ oddcount=totalElements-evencount
 print("Even count is ",evencount)
 print("Odd count is ",oddcount)
 print()
+
+Output :
+    Enter the total no of elements : 3
+    2
+    5
+    6
+    Even count is  2
+    Odd count is  1
