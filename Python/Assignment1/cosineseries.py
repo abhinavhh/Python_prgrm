@@ -20,3 +20,7 @@ def cosXSeriesSum(x, n):
 x = int(input("Enter the value of x in degrees: ")) 
 # n = int(input("Enter the number of terms: ")); 
 print(round(cosXSeriesSum(x, 10), 6)); 
+
+Output : 
+    Enter the value of x in degrees: 45
+    0.707035
